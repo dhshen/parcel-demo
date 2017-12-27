@@ -2,6 +2,7 @@
 本demo参考自：[前端外刊评论-Parcel，零配置开发 React 应用！](https://zhuanlan.zhihu.com/p/32375500)
 
 ##步骤
+
 首先，创建一个 NPM 项目：
 ```$xslt
 mkdir demo-2

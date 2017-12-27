@@ -7,5 +7,10 @@ parcel demo
 目前 parcel 仅支持 node 8 或者以上版本
 版本不符合要求跑起来会报错
 
+## 安装
 
+```
+yarn global add parcel-bundler
+```
 
+[parcel官网](https://parceljs.org/)
